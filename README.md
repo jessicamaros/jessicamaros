@@ -1,4 +1,4 @@
-### Oii! Eu sou a Jéssica Maros 👋
+### Olá! Eu sou a Jéssica Maros, estudante do Projeto entra21 e buscando minha colocação no mercado de tecnologia 👋
 
 <div align="center">
   <a href="https://github.com/jessicamaros">
